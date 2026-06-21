@@ -37,5 +37,5 @@ PyTorch · Computer Vision · MPEG-AI · Feature Compression · Video Coding
 
 ## Documents
 
-- [Final Paper](Final_Paper/MPEG_AI_FCM_Research_Paper)
-- [Presentation Slides](Presentation_Slides/MPEG_AI_FCM_Presentation)
+- [Final Paper](Final_Paper/MPEG_AI_FCM_Research_Paper.pdf)
+- [Presentation Slides](Presentation_Slides/MPEG_AI_FCM_Presentation.pdf)
